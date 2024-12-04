@@ -1,13 +1,12 @@
 # Frequently Asked Questions
 
-
-## Is this legal?
+### Is this legal?
 Yes, it is legal to request data deletion under GDPR or/and similar privacy regulations.
 
-## Will Discord comply with my request?
+### Will Discord comply with my request?
 Discord is legally obligated to comply with valid data deletion requests under privacy regulations.
 
-## What to do if Discord has refused my request?
+### What to do if Discord has refused my request?
 Check if you have [formatted your messages](convert.md) and [created the support ticket](ticket.md) properly. If all was done correct, try sending an additional clarification message like following: 
 
 
