@@ -19,10 +19,12 @@ Check if you have [formatted your messages](convert.md) and [created the support
 
 or consider contacting local authorities.
 
-
 ### How long does deletion take?
 - Initial processing: 24-48 hours
 - Full removal: up to 30 days
+
+### Discord didn't fully delete my messages...
+There are reports that the data package might be missing messages, reason is currently unclear.
 
 ### What if Discord ignores me?
 The wait of up to 30 days is normal for deletion requests, however, if it takes longer than that, you might consider contacting local data protection authorities if you are able to.
