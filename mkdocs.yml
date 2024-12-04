@@ -27,10 +27,10 @@ extra:
   generator: false
 
 nav:
-  - ❌ Data Removal:
+  - ❌ Message Removal:
     - Overview: removal/overview.md
-    - 🔍 Preparing data for request: 
-      - Request package: removal/package.md
+    - 🔍 Preparing data for ticket: 
+      - Request data package: removal/package.md
       - Convert to required format: removal/convert.md
     - 📜 Ticket Templates: 
       - GDPR: removal/GDPR.md
