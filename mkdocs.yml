@@ -2,7 +2,7 @@ site_name: Discordomicon
 site_description: A documentation for evil things Discord.
 
 repo_name: Contribute on GitHub
-repo_url: https://github.com/discordomicon/discordomicon
+repo_url: https://github.com/discordomicon/discordomicon.github.io
 
 theme:
   name: material
