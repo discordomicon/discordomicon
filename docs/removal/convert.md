@@ -1,6 +1,6 @@
 # Community tools for converting data packages
 
-### [`undiscord-package-util`](https://dorifor.github.io/undiscord-package-util/) by Dorifor (Easy)
+### [`undiscord-package-util`](https://dorifor.github.io/undiscord-package-util/) by [Dorifor](https://github.com/Dorifor) (Easy)
 You can use this tool inside of browser and it is adapted for the newly required CSV format. 
 The source code for it is available at https://github.com/dorifor/undiscord-package-util
 
