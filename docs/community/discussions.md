@@ -1,0 +1,2 @@
+# Discussions
+Currently, the place where you can ask and talk about excercising your rights of data removal against Discord is the [Bulk Deleting Discord Messages and GDPR Compliance #429](https://github.com/victornpb/undiscord/discussions/429) GitHub Discussions thread in the [undiscord](https://github.com/victornpb/undiscord) repository.

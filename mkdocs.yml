@@ -1,0 +1,46 @@
+site_name: Discordomicon
+site_description: A documentation for evil things Discord.
+
+repo_name: Contribute on GitHub
+repo_url: https://github.com/discordomicon/discordomicon
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    scheme: slate
+    primary: black
+    accent: blue
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+
+extra:
+  homepage: removal/overview
+  generator: false
+
+nav:
+  - ❌ Data Removal:
+    - Overview: removal/overview.md
+    - 🔍 Preparing data for request: 
+      - Request package: removal/package.md
+      - Convert to required format: removal/convert.md
+    - 📜 Ticket Templates: 
+      - GDPR: removal/GDPR.md
+      - UK-GDPR: removal/UK-GDPR.md
+    - 💬 Creating a support ticket: removal/ticket.md
+    - ❔ FAQ: removal/FAQ.md
+  - 🌐 Community:
+    - Discussions: community/discussions.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      permalink_title: Copy link to this section
